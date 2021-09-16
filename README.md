@@ -1,2 +1,2 @@
 # React-Projects
-My recent react project (:
+Expense Tracker Web Application in React. 
